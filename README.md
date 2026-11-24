@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 24/11/2026
-## Reference Number: 26017964
-## Name: Shuban S 
+# Date: <DD-MM-YYYY>
+## Reference Number: <Your Reference Number>
+## Name: <Your Name / Team Name>
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers' earnings and increase consumer prices.
@@ -50,10 +50,9 @@ Benefits:
 
 ## Research and References
 1. Details / Links of the reference and research work
-   - Smart India Hackathon
-   - e-NAM (National Agriculture Market)
-   - Agmarknet (mandi price data)
-   - Bhashini (Indian language AI)
-   - Google OR-Tools (route optimization)
-   - Ministry of Agriculture & Farmers Welfare, FPO scheme
-   - 
+   - Smart India Hackathon – https://www.sih.gov.in
+   - e-NAM – https://enam.gov.in
+   - Agmarknet – https://agmarknet.gov.in
+   - Bhashini – https://bhashini.gov.in
+   - Google OR-Tools – https://developers.google.com/optimization
+   - Ministry of Agriculture & Farmers Welfare, FPO scheme – https://www.agricoop.nic.in
