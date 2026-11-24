@@ -36,7 +36,9 @@ Benefits:
    - QR Traceability and Voice-First Access: trust and inclusion.
 
 ## Technical Approach
-![kisansetu-ecosystem](https://github.com/user-attachments/assets/fe49e174-16b5-4398-a65a-c29085c90592)
+<img width="1360" height="800" alt="kisansetu-ecosystem" src="https://github.com/user-attachments/assets/08d1abb1-f6d4-4a7d-86d6-d80d9d69d3a4" />
+
+
 
 
 1. **Technologies to be used:** React Native, Node.js, PostgreSQL/MongoDB, Python (Prophet, OR-Tools, CNN grading), Bhashini, WhatsApp/IVR, Razorpay UPI, AWS/Docker.
