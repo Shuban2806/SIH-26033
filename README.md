@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 24/06/2026
-## Reference Number: 26017964
-## Name: Shuban S
+# Date: <DD-MM-YYYY>
+## Reference Number: <Your Reference Number>
+## Name: <Your Name / Team Name>
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers' earnings and increase consumer prices.
@@ -35,13 +35,9 @@ Benefits:
    - Spoilage-Aware Pricing and Group Buying: less waste, better bulk prices.
    - QR Traceability and Voice-First Access: trust and inclusion.
 
-![Traditional chain vs KisanSetu](images/kisansetu-before-vs-after.png)
-
 ## Technical Approach
 1. **Technologies to be used:** React Native, Node.js, PostgreSQL/MongoDB, Python (Prophet, OR-Tools, CNN grading), Bhashini, WhatsApp/IVR, Razorpay UPI, AWS/Docker.
 2. **Methodology and process for implementation** **(Flow Charts/Images/ working prototype)**: Onboard → List and AI grade → Match buyers → Order and escrow → Pooled delivery → QR payout → Feedback to forecasting.
-
-![KisanSetu implementation workflow](images/kisansetu-workflow.png)
 
 ## Feasibility and Viability
 1. **Analysis of the feasibility of the idea:** High smartphone/UPI reach, FPOs and e-NAM as aggregation points, and mature, affordable technologies.
