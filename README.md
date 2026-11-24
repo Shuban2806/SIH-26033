@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: <DD-MM-YYYY>
-## Reference Number: <Your Reference Number>
-## Name: <Your Name / Team Name>
+# Date: 24/11/2026
+## Reference Number: 26017964
+## Name: Shuban S
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers' earnings and increase consumer prices.
@@ -56,3 +56,4 @@ Benefits:
    - Bhashini – https://bhashini.gov.in
    - Google OR-Tools – https://developers.google.com/optimization
    - Ministry of Agriculture & Farmers Welfare, FPO scheme – https://www.agricoop.nic.in
+![kisansetu-ecosystem](https://github.com/user-attachments/assets/dfab51c1-74cd-44e6-8aba-804f043620b1)
